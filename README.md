@@ -67,12 +67,10 @@ Hi, i’m **Renan Campos**, i'm from Rio de Janeiro-Brazil, **Fullstack Develope
     <tr>
     <td valign="top" width="50%">
       <h2 align="center"><a href="https://wolterwallet.vercel.app">App Trybe Wallet</a></h2>
-      <a href="https://wolterwallet.vercel.app"><img width="100%" src="./Images/wallet.png" alt="Project-Trybe-Wallet" /></a>
       <br>
       <p><em><strong> Tools/Methodologies:</strong> React (functional components), Context API, HTML, CSS, Bootstrap, JavaScript</em></p>
       <h4><a href="https://github.com/RenanCampos1/Trybe-Wallet"><strong> Repository</strong> - App-Front-End - Trybe Wallet</a></h4>
     </td>
-     
      </tr>
 </table>
  
